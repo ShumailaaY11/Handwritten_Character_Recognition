@@ -3,7 +3,7 @@
 A CNN-based system to recognize handwritten English 
 characters A to Z using TensorFlow and OpenCV.
 
-## Accuracy: 94.90%
+## Accuracy: 99.38%
 
 ## Tech Stack
 - Python
